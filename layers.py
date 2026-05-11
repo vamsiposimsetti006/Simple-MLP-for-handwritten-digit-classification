@@ -1,7 +1,5 @@
 import numpy as np
 
-import numpy as np
-
 
 class Dense:
     def __init__(self, n_inputs, n_neurons):
